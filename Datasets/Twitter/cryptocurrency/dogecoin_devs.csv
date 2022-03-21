@@ -1,0 +1,403 @@
+﻿,UserScreenName,UserName,Timestamp,Text,Embedded_text,Emojis,Comments,Likes,Retweets,Image link,Tweet URL
+0,Dogecoin Developers,@dogecoin_devs,2021-01-09T12:26:51.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 1월 9일","You can now swap pDOGE and ETH on Uniswap: https://info.uniswap.org/pair/0x48584714106c724c6954c5546708aad5811c29bd…
+8
+51
+163",,8,51,163,[],https://twitter.com/dogecoin_devs/status/1347882525687996417
+1,Dogecoin Developers,@dogecoin_devs,2021-01-09T16:01:54.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 1월 10일","Patrick's written about what the pDOGE/ETH bridge means, on reddit:
+reddit.com
+DOGE can now be wrapped to Ethereum
+Posted in r/dogecoin by u/patricklodder • 223 points and 89 comments
+19
+57
+149",🚀,19,57,149,['https://pbs.twimg.com/card_img/1480225065040064519/KDQoVjMP?format=jpg&name=240x240'],https://twitter.com/dogecoin_devs/status/1347936646365376518
+2,Dogecoin Developers,@dogecoin_devs,2021-01-29T11:41:03.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 1월 29일","If you're having problems syncing, please open TCP port 22556 on your firewall. We've got very very few nodes people can connect to, so they're swamped, while nodes which are only trying to connect outwards can't find anyone to connect to.
+82
+65
+244",,82,65,244,[],https://twitter.com/dogecoin_devs/status/1355118757232959489
+3,Dogecoin Developers,@dogecoin_devs,2021-01-29T08:48:23.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 1월 29일","To answer some of the questions I'm seeing:
+
+If you have 2FA problems, they're not with Dogecoin Core (which this account covers). Also Dogechain (who you probably mean) can't unlock with 2FA, no, that's kind of the point of an authentication system.
+19
+12
+92",,19,12,92,[],https://twitter.com/dogecoin_devs/status/1355075307041075205
+4,Dogecoin Developers,@dogecoin_devs,2021-02-05T13:04:47.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 2월 5일","I'm going to be working on test cases for https://github.com/dogecoin/dogecoin/pull/1676… over the weekend, after which we can look at a roadmap to ship 1.14.3 - Ross
+github.com
+Don't recompute AuxPoW when serving peer requests by shibe2 · Pull Request #1676 · dogecoin/dogecoin
+I didn't test it yet, just applied my patch. I'm using it along with other minor patches on 1.14.2. It would be interesting to feed it with a block or just header with incorrect Aux...
+46
+43
+204",,46,43,204,['https://pbs.twimg.com/card_img/1479850600393232396/vIusrS8J?format=jpg&name=small'],https://twitter.com/dogecoin_devs/status/1357676546148941831
+5,Dogecoin Developers,@dogecoin_devs,2021-02-05T12:58:53.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 2월 5일","People are back to rolling into the GitHub repo, looking at the stable branch and declaring we're not working. The main focus right now is on https://github.com/dogecoin/dogecoin/tree/1.14.3-dev… , but please also remember this isn't the day job for any of us, so most progress will be at weekends - Ross
+23
+47
+207",,23,47,207,[],https://twitter.com/dogecoin_devs/status/1357675061507993600
+6,Dogecoin Developers,@dogecoin_devs,2021-02-06T15:19:35.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 2월 7일","Just posted a summary of everything going on with development right now:
+reddit.com
+Development update 2021-02-06
+Yo shibes, I wanted to cover a bundle of things going on, so people know where development efforts are currently focused: * A number of...
+42
+247
+556",,42,247,556,['https://pbs.twimg.com/card_img/1479259765909954565/b_Kwz1zm?format=jpg&name=240x240'],https://twitter.com/dogecoin_devs/status/1358072857910267905
+7,Dogecoin Developers,@dogecoin_devs,2021-02-06T09:59:27.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 2월 6일","I've seen a few messages recently which seem to think we license to exchanges in some way (one person even asked if they can become a reseller). We have no control over exchanges, and we can't help with any questions or support issues around them - Ross
+21
+48
+251",,21,48,251,[],https://twitter.com/dogecoin_devs/status/1357992290694881281
+8,Dogecoin Developers,@dogecoin_devs,2021-02-13T09:58:04.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 2월 13일","Today's focus is comparing two sync performance patches, and getting CI to pass with early 1.21 experiments.
+112
+224
+1천",,112,224,1천,[],https://twitter.com/dogecoin_devs/status/1360528661041004544
+9,Dogecoin Developers,@dogecoin_devs,2021-02-20T15:12:12.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 2월 21일","Please, when you're teaching anyone about cryptocurrency, explain decentralisation to them. So many people out there who think there's a central party who can move coins around. - Ross
+101
+292
+1.5천",,101,292,1.5천,[],https://twitter.com/dogecoin_devs/status/1363144427691196418
+10,Dogecoin Developers,@dogecoin_devs,2021-02-20T08:47:40.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 2월 20일","Still seeing people falling for these scams, please be careful out there.
+Dogecoin
+@dogecoin
+ · 2021년 1월 30일
+From Jackson Palmer: 
+
+https://ummjackson.com
+
+Given many accounts have taken to impersonation lately to try to take advantage of new shibes and people curious. If you spot an ummjackson in the wild, it is fake. Be safe, be careful  #dogecoin
+19
+68
+278",❤,19,68,278,['https://pbs.twimg.com/profile_images/378800000857919980/lHqPIZza_mini.png'],https://twitter.com/dogecoin_devs/status/1363047659855097858
+11,Dogecoin Developers,@dogecoin_devs,2021-02-21T11:22:30.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 2월 21일","To the three people running Dogecoin 1.6, please upgrade to 1.14. You know who you are :D
+551
+1.2천
+2.9만",,551,1.2천,2.9만,[],https://twitter.com/dogecoin_devs/status/1363449012699860995
+12,Dogecoin Developers,@dogecoin_devs,2021-02-21T13:55:57.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 2월 21일","I'm seeing questions on version numbers.
+
+So the ""."" in a version number is a separator, not a decimal point. So read ""1.14"" as ""Major release 1, minor release 14"", while ""1.6"" is ""Major release 1, minor release 6""
+
+Hope that helps.
+120
+95
+820",,120,95,820,[],https://twitter.com/dogecoin_devs/status/1363487628612493322
+13,Dogecoin Developers,@dogecoin_devs,2021-02-25T17:28:30.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 2월 26일","<3
+Mimi Mitina
+@mimimusics
+ · 2021년 2월 22일
+@elonmusk 님에게 보내는 답글
+toss a #doge to your witcher! i rewrote the song :D hope you can check it out :)
+49
+133
+680",,49,133,680,"['https://pbs.twimg.com/profile_images/1474192488973877255/7uJjERUe_mini.jpg', 'https://pbs.twimg.com/ext_tw_video_thumb/1363610648161222659/pu/img/NmKyk2TgW5xHyYAR.jpg']",https://twitter.com/dogecoin_devs/status/1364990668125437952
+14,Dogecoin Developers,@dogecoin_devs,2021-02-25T17:28:30.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 2월 26일","<3
+Mimi Mitina
+@mimimusics
+ · 2021년 2월 22일
+@elonmusk 님에게 보내는 답글
+toss a #doge to your witcher! i rewrote the song :D hope you can check it out :)
+1:13
+47.5만 조회수
+49
+133
+680",,49,133,680,['https://pbs.twimg.com/profile_images/1474192488973877255/7uJjERUe_mini.jpg'],https://twitter.com/dogecoin_devs/status/1364990668125437952
+15,Dogecoin Developers,@dogecoin_devs,2021-02-28T21:23:56.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 3월 1일","Dogecoin Core 1.14.3 is out: https://reddit.com/r/dogecoin/comments/luqrrb/dogecoin_core_1143/…
+
+Main highlight is improved sync speed, and we encourage everyone running Dogecoin Core to upgrade when convenient.
+reddit.com
+Dogecoin Core 1.14.3
+We've just released a new version of Dogecoin Core, which you can [download from...
+812
+1.3천
+4.2천",,812,1.3천,4.2천,['https://pbs.twimg.com/card_img/1479259765909954565/b_Kwz1zm?format=jpg&name=240x240'],https://twitter.com/dogecoin_devs/status/1366137080913526785
+16,Dogecoin Developers,@dogecoin_devs,2021-03-01T19:07:00.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 3월 2일","Shout out to 
+@coinbase
+ @CoinbaseSupport
+ for fixing the #dogecoin integration in their iOS wallet at lightning speed. 
+We truly appreciate your swift action!
+GIF
+64
+283
+1.4천",,64,283,1.4천,[],https://twitter.com/dogecoin_devs/status/1366465008146743302
+17,Dogecoin Developers,@dogecoin_devs,2021-03-01T20:00:01.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 3월 2일",".
+@dogecoindex
+ is looking for testers for their new iOS and Android apps. 
+See below for more info about their DogeDEX apps. #DoOnlyGoodEveryday
+DogeDEX
+@dogecoindex
+ · 2021년 3월 2일
+DogeDEX is now available for testing on Android and iOS. Remember to send your feedback. The community's suggestions will be taken into consideration for our next release. 
+Android: https://play.google.com/store/apps/details?id=com.doge.dex…
+iOS: https://testflight.apple.com/join/yl474KtC
+#Dogecoinarmy #DOGOODEVERYDAY #DogecoinRise
+108
+286
+828",,108,286,828,"['https://pbs.twimg.com/profile_images/1359853354634125321/Tqz0d9m-_mini.png', 'https://pbs.twimg.com/media/EvZweFtXIAABD63?format=jpg&name=small']",https://twitter.com/dogecoin_devs/status/1366478352719216643
+18,Dogecoin Developers,@dogecoin_devs,2021-03-04T19:21:15.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 3월 5일","The network is updating to #Dogecoin v1.14.3 steadily, with about 5% of the network switching over per day! So far, so good, shibes; let's all upgrade our nodes and speed up our network! Get it at https://github.com/dogecoin/dogecoin/releases/tag/v1.14.3…
+117
+453
+1.5천",,117,453,1.5천,['https://pbs.twimg.com/media/EvqIrgvXUAYF3RE?format=jpg&name=small'],https://twitter.com/dogecoin_devs/status/1367555759832236032
+19,Dogecoin Developers,@dogecoin_devs,2021-03-07T12:02:12.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 3월 7일","Oh also we're thinking of renaming mempool to memepool, in case you thought it was getting too serious here.
+134
+192
+1.4천",,134,192,1.4천,[],https://twitter.com/dogecoin_devs/status/1368532433658871812
+20,Dogecoin Developers,@dogecoin_devs,2021-03-07T09:36:42.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 3월 7일","For people asking what's going on, we do announce when we have readily digestible updates. I mean I could tell you I'm re-evaluating how Dogecoin blockchain changes affect various parameters, but does that help? It's in:
+github.com
+1.21 Block interval and maturity window by rnicoll · Pull Request #1780 · dogecoin/dogecoin
+Change coinbase maturity to 240 blocks in most cases, with main/test early chains allowing 30 blocks. I've kept the 240 consistent in regtest to avoid having to redesign a lot of the test c...
+84
+220
+928",,84,220,928,['https://pbs.twimg.com/card_img/1478655595783856137/uJMjY8uo?format=jpg&name=small'],https://twitter.com/dogecoin_devs/status/1368495815715659776
+21,Dogecoin Developers,@dogecoin_devs,2021-03-13T22:28:49.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 3월 14일","For those who love really really (I'm not joking) raw technical detail, I've posted on the work on 1.21: https://reddit.com/r/dogecoindev/comments/m4h3r9/20210313_made_the_tests_work_with_all_the_block/…
+
+Basically while the changes from Dogecoin are limited, there's a LOT of tests that needed fixing to match, but it's now all ready for review - Ross
+reddit.com
+2021-03-13 Made the tests work with all the block...
+https://github.com/dogecoin/dogecoin/pull/1780 finally passes tests. I have had to disable a couple of tests which are very Bitcoin-specific, but...
+119
+252
+934",,119,252,934,['https://pbs.twimg.com/card_img/1479259765909954565/b_Kwz1zm?format=jpg&name=240x240'],https://twitter.com/dogecoin_devs/status/1370864450731978752
+22,Dogecoin Developers,@dogecoin_devs,2021-03-23T18:52:06.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 3월 24일","Today we're announcing Operation Such Frensly - an effort to make the Dogecoin Core wallet easier to use.
+github.com
+Operation Such Frensly · Issue #1806 · dogecoin/dogecoin
+Recent discussions have (once more) lead to the idea that there are some features missing from Dogecoin Core QT that currently are only exposed from the RPC console. For common operations, it&#...
+643
+585
+2.6천",,643,585,2.6천,['https://pbs.twimg.com/card_img/1478450245176598529/aIjCS_JI?format=jpg&name=small'],https://twitter.com/dogecoin_devs/status/1374433794187427841
+23,Dogecoin Developers,@dogecoin_devs,2021-04-14T11:43:59.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 4월 14일","We cannot address support requests on an individual basis. If you need help, please post on http://reddit.com/r/dogeducation where the community can provide guidance.
+reddit.com
+for newbies, how to's and other learning of all... • r/dogeducation
+Where people can ask questions and find answers that are explained in newbie/laymen terminology.
+97
+129
+689",,97,129,689,[],https://twitter.com/dogecoin_devs/status/1382298584662556676
+24,Dogecoin Developers,@dogecoin_devs,2021-04-16T17:12:11.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 4월 17일","If you're running a full node (Dogecoin Core), please make sure you're running the latest 1.14.3. It has significant performance improvements that will help us sync all the new shibes - Ross
+164
+452
+2천",,164,452,2천,[],https://twitter.com/dogecoin_devs/status/1383105956502986753
+25,Dogecoin Developers,@dogecoin_devs,2021-04-17T16:35:36.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 4월 18일","If you need help with any problems using Dogecoin, the best way is to search https://reddit.com/r/dogeducation/ and ask a question if your problem hasn't been solved yet.
+reddit.com
+for newbies, how to's and other learning of all... • r/dogeducation
+Where people can ask questions and find answers that are explained in newbie/laymen terminology.
+224
+273
+1.1천",,224,273,1.1천,[],https://twitter.com/dogecoin_devs/status/1383459139100102658
+26,Dogecoin Developers,@dogecoin_devs,2021-05-08T09:19:23.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 5월 8일","We're seeing a lot more fully synced nodes on the network, which is great, but it would really help if those running Dogecoin Core can ensure their node is reachable through their firewall. There's a full guide at
+reddit.com
+Help - Dogecoin Core, Running a Full Node and port forwarding
+Hello all! Trying to be a good Inu and contribute to the network. Trying to port forward 22556 and running into issues. I'm a networking noob -...
+174
+516
+1.9천",,174,516,1.9천,['https://pbs.twimg.com/card_img/1477485909327106049/CZs2UHrM?format=png&name=240x240'],https://twitter.com/dogecoin_devs/status/1390959504968269824
+27,Dogecoin Developers,@dogecoin_devs,2021-05-09T21:04:32.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 5월 10일","For anyone who wants to help translate the website, you can raise pull requests on GitHub to update the site:
+github.com
+GitHub - dogecoin/dogecoin.com: official repo for dogecoin.com
+official repo for dogecoin.com. Contribute to dogecoin/dogecoin.com development by creating an account on GitHub.
+285
+498
+2.5천",,285,498,2.5천,['https://pbs.twimg.com/card_img/1480294862042066944/2-JYLRwl?format=jpg&name=small'],https://twitter.com/dogecoin_devs/status/1391499348551389192
+28,Dogecoin Developers,@dogecoin_devs,2021-05-12T11:32:00.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 5월 12일","Pending final tests, I should have the first long-running 1.21 node on testnet today. - Ross
+428
+1.1천
+6.1천",,428,1.1천,6.1천,[],https://twitter.com/dogecoin_devs/status/1392442432474820608
+29,Dogecoin Developers,@dogecoin_devs,2021-05-13T09:48:30.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 5월 13일","We are aware a new company has started offering devops services on Dogecoin. Please note this does not involve any of the team maintaining Dogecoin Core.
+585
+1.2천
+7.7천",,585,1.2천,7.7천,[],https://twitter.com/dogecoin_devs/status/1392778772072513536
+30,Dogecoin Developers,@dogecoin_devs,2021-05-24T21:20:01.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 5월 25일","For an overview of work currently being done towards the next major release of Dogecoin Core, see the project board at
+github.com
+Next Major - 1.21 · dogecoin/dogecoin
+very currency. Contribute to dogecoin/dogecoin development by creating an account on GitHub.
+1천
+2.1천
+1만",,1천,2.1천,1만,['https://pbs.twimg.com/card_img/1479501120380755970/H6fqyUkk?format=jpg&name=small'],https://twitter.com/dogecoin_devs/status/1396939066264981507
+31,Dogecoin Developers,@dogecoin_devs,2021-07-09T21:25:22.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 7월 10일","The moving of the dev fund has concluded and was successful. The new fund address is AC8Q9Z4i4sXcbW7TV1jqrjG1JEWMdLyzcy . wow very transparency.
+192
+294
+1.6천",,192,294,1.6천,[],https://twitter.com/dogecoin_devs/status/1413610253405589505
+32,Dogecoin Developers,@dogecoin_devs,2021-07-09T20:47:30.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 7월 10일","As one of you will no doubt spot at any moment, the Dogecoin developer fund is moving address. This is an operational change in which we replace one of the keys, there is no change in ownership, nor is this a pay out at this time.
+179
+280
+1.5천",,179,280,1.5천,[],https://twitter.com/dogecoin_devs/status/1413600724035031041
+33,Dogecoin Developers,@dogecoin_devs,2021-07-09T21:47:02.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 7월 10일","It's true! Much operational security. So multisig. Wow.
+Dogecoin Developers
+@dogecoin_devs
+ · 2021년 7월 10일
+As one of you will no doubt spot at any moment, the Dogecoin developer fund is moving address. This is an operational change in which we replace one of the keys, there is no change in ownership, nor is this a pay out at this time.
+240
+186
+979",,240,186,979,['https://pbs.twimg.com/profile_images/456149117991784448/Mzpy0ktv_mini.png'],https://twitter.com/dogecoin_devs/status/1413615706852134912
+34,Dogecoin Developers,@dogecoin_devs,2021-08-21T01:03:58.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 8월 21일","Dogecoin 1.14.4 Released - https://github.com/dogecoin/dogecoin/releases/tag/v1.14.4… 
+
+-Enables Upcoming Fee Reductions
+-Improves Synchronization Speed (2.5x in some cases)
+-RPC 'getpeerinfo' improvements.
+-GUI options to add peers and import private keys, and peer traffic visibility
+-Security fixes
+github.com
+Release Dogecoin Core 1.14.4 · dogecoin/dogecoin
+This is a new minor version release, including various bugfixes and performance improvements. It is a recommended update for all users. This release can be installed over an existing 1.14 installat...
+6.6천
+2.8천
+9.9천",,6.6천,2.8천,9.9천,['https://pbs.twimg.com/card_img/1479563691129544704/hJqamubW?format=jpg&name=small'],https://twitter.com/dogecoin_devs/status/1428885556939825158
+35,Dogecoin Developers,@dogecoin_devs,2021-09-19T15:29:43.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 9월 20일","I've just posted a roundup of the code reviews in progress for 1.14.5 and 1.21.0, as part of my stream plan for today: https://rnicoll.name/dogecoin/stream-plan-2021-09-19/index.html… - Ross
+rnicoll.name
+Stream Plans 2021-09-19: Continuous integration
+At the moment mostly we’re in a code review phase, where things are being reviewed and I’m waiting on feedback. There’s a new tagged version of 1.21 for those who want to experiment, though. Anyway,...
+133
+283
+1.1천",,133,283,1.1천,[],https://twitter.com/dogecoin_devs/status/1439612676834013191
+36,Dogecoin Developers,@dogecoin_devs,2021-09-24T19:22:06.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 9월 25일","Does someone know who Litecoin address LTCPodha2LAxSyBGsGfkWcmKDEB8cWrqLU is and could they please fix their transaction inclusion?
+github.com
+A miner is mining empty blocks · Issue #2585 · dogecoin/dogecoin
+The network is frequently exploited by miner: DMr3fEiVrPWFpoCWS958zNtqgnFb7QWn9D The miner appears to exploit the network by starting the hashing process on receipt of unconfirmed blocks, by mining...
+225
+146
+671",,225,146,671,['https://pbs.twimg.com/card_img/1479569210074624002/eZrSkNlG?format=jpg&name=small'],https://twitter.com/dogecoin_devs/status/1441483095769853953
+37,Dogecoin Developers,@dogecoin_devs,2021-10-29T20:19:36.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 10월 30일","The TeamSeas & Dogecoin site is now live, help #teamseas save our planet! https://dogecoin.com/teamseas/
+youtube.com
+Dogecoin #TeamSeas
+145
+301
+997",,145,301,997,['https://pbs.twimg.com/card_img/1479564161323454465/yMsGhQ7l?format=jpg&name=240x240'],https://twitter.com/dogecoin_devs/status/1454181141045555211
+38,Dogecoin Developers,@dogecoin_devs,2021-11-07T19:13:07.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 11월 8일","Dogecoin Core 1.14.5 has been tagged (""gone gold"", but for open source), and we're running the Gitian build process for it now. It's not done until we verify the build is good, but sooooon https://github.com/dogecoin/dogecoin/tree/v1.14.5…
+279
+874
+3.2천",,279,874,3.2천,[],https://twitter.com/dogecoin_devs/status/1457425901394747398
+39,Dogecoin Developers,@dogecoin_devs,2021-11-08T19:07:09.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 11월 9일","we do a little releasing.
+github.com
+Release Dogecoin Core 1.14.5 · dogecoin/dogecoin
+This is a new minor version release, including important security updates and changes to network policies. All Dogecoin Core users, miners, services, relay operators and wallet users are strongly r...
+614
+2.2천
+1.3만",,614,2.2천,1.3만,['https://pbs.twimg.com/card_img/1480625848986533888/iqf0qMjZ?format=jpg&name=small'],https://twitter.com/dogecoin_devs/status/1457786788316016644
+40,Dogecoin Developers,@dogecoin_devs,2021-11-11T18:47:10.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 11월 12일","Providing some clarification the Binance situation: 1) A bit over a year ago, Binance notified us that they had stuck transactions. We were not shown these transactions, but it was suggested that they were 'stuck' due to insufficient fees...
+561
+616
+3.1천",,561,616,3.1천,[],https://twitter.com/dogecoin_devs/status/1458868925039464451
+41,Dogecoin Developers,@dogecoin_devs,2021-11-29T10:08:09.000Z,"Dogecoin Developers
+@dogecoin_devs
+·
+2021년 11월 29일","Update on what happened with Binance, withdrawals should now be fully re-enabled
+binance.com
+The Inside Story on DOGE withdrawals | Binance Blog
+We'd like to take this opportunity to share some more details around a recent issue that Dogecoin Core maintainers and Binance experienced during the DOGE wallet upgrade.
+287
+357
+1.6천",,287,357,1.6천,['https://pbs.twimg.com/card_img/1478616527486308355/DIEbAgVX?format=png&name=small'],https://twitter.com/dogecoin_devs/status/1465261289333268488
