@@ -1,8 +1,8 @@
 # Cryptocurrency-Social-Emotion-Index
-2021_Winter-SNU_IAB_Class \n
-Seoul_National_University - College_of_Engineering \n
-Project done by Haksoon Kim \n
-Email: bafflesoon@snu.ac.kr \n
+2021_Winter-SNU_IAB_Class   
+Seoul_National_University - College_of_Engineering   
+Project done by Haksoon Kim   
+Email: bafflesoon@snu.ac.kr   
 
 # Project Description
 Cryptocurrency Index which reflects Social Sentiment by applying Sentiment Analysis
