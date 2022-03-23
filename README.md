@@ -5,12 +5,12 @@ Project done by Haksoon Kim
 Email: bafflesoon@snu.ac.kr   
 
 # Project Description
-Cryptocurrency Index which reflects Social Sentiment by applying Sentiment Analysis
-Target Cryptocurrency: Doge Coin(DOGE), Binance Coin(BNB)
-Data: Search Volume(Google Trends), Trade Volume(Binance API), Tweets(Twitter API)
-- 0-100 Normalized Interests Time Series Data found in Google Trends of Search Word - Doge Coin, Binance Coin (5 years around worlds)
-- Trade Volume from Daily Trade Data by using Binance API since each cryptocurrency capitalized and also get time series data of price
-- Tweets done in 2021 from cryptocurrency-related accounts by using twitter scraper API 'Scweet'
+Cryptocurrency Index which reflects Social Sentiment by applying Sentiment Analysis   
+Target Cryptocurrency: Doge Coin(DOGE), Binance Coin(BNB)   
+Data: Search Volume(Google Trends), Trade Volume(Binance API), Tweets(Twitter API)   
+- 0-100 Normalized Interests Time Series Data found in Google Trends of Search Word - Doge Coin, Binance Coin (5 years around worlds)   
+- Trade Volume from Daily Trade Data by using Binance API since each cryptocurrency capitalized and also get time series data of price   
+- Tweets done in 2021 from cryptocurrency-related accounts by using twitter scraper API 'Scweet'   
 
 # Process
 Search Volume, Trade Volume and Price
