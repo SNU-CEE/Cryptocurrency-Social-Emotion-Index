@@ -1,6 +1,6 @@
 # Cryptocurrency-Social-Emotion-Index
 2021_Winter-SNU_IAB_Class   
-Seoul_National_University - College_of_Engineering   
+Seoul National University - College of Engineering   
 Project done by Haksoon Kim   
 Email: bafflesoon@snu.ac.kr   
 
